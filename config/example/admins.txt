@@ -6,3 +6,5 @@
 ######################################################################
 
 # example - Hosting Provider
+Daelso - Senior Admin
+Conzie - Head of Staff
