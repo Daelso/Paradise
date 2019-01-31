@@ -183,7 +183,7 @@ CHECK_RANDOMIZER
 # WIKIURL http://example.org
 
 ## Rules address
-# RULESURL http://example.org
+ RULESURL https://pastebin.com/wLGK7AKR
 
 ## GitHub address
 # GITHUBURL http://example.org
