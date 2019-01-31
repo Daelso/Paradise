@@ -13,7 +13,7 @@ DB_VERSION 4
 
 ## Server the MySQL database can be found at.
 # Examples: localhost, 200.135.5.43, www.mysqldb.com, etc.
-ADDRESS 149.28.60.43
+ADDRESS localhost
 
 ## MySQL server port (default is 3306).
 PORT 3306
